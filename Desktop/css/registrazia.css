@@ -1,0 +1,263 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+body {
+    width: 100%;
+    background: url("../images/bg.png");
+}
+html{
+    margin: 0px auto;
+    display: block;
+}
+a active {
+    color: #fbd3a3
+}
+a {
+text-decoration: none;   
+}
+#men_nav ul li a:hover {
+    color: #ffb678;  
+}
+#men_nav .vipmenu li a:hover {
+    color: #ffb678;
+    background: rgba(39, 30, 28, 0.54);
+}
+#men_nav .viplmenu li a:hover {
+    color: #ffb678;
+    background: rgba(39, 30, 28, 0.54);
+}
+#kn_vir :hover {
+    color: #ffb678;
+}
+body ul li a:hover {
+    color: #ffb678;
+}
+#header :hover {
+    color: #ffb678;
+    background: rgba(255, 88, 0, 0.03);
+}
+#pading_alin {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+#hat {
+    margin-left: 52px;
+    background: url(../images/begst.png);
+    width: 980px;
+    height: 35px;
+    padding-left: 20px;
+    box-shadow:  0 0 30px rgba(0, 0, 0, 0.56);
+}
+.begtext {
+    width: 997px;
+    margin-left: -19px;
+    margin-top: 6px;
+    color: aliceblue;
+    font-size: 19px;
+}
+
+#header {
+    list-style: none;
+    height: 120px;
+}
+.projectrf {
+    float: left;
+    width: 350px;
+    margin-left: 380px;
+    margin-top: 30px;
+}
+#neck {
+    width: 100%;
+    height: 50px;
+    background: url("../images/stmen.png");
+    box-shadow:  0 0 15px rgba(0, 0, 0, 0.56);
+}
+#zagolovok {
+    width: 1100px;
+    height: 50px;
+    margin-left: 5px;
+    list-style: none;  
+}
+#header :hover {
+    color: #ffb678;
+    background: rgba(242, 174, 138, 0.03);
+}
+body ul li a:hover {
+    color: #ffb678;
+}
+/*Точки в меню*/
+.tochmen {
+    float: left;
+    list-style: none;
+    display: block;
+    margin-top: 20px;
+    margin-right: 17px;
+    margin-left: 17px;
+    height: 12px;
+}
+.tochmen{
+    float: left;
+    width: 12px;
+    height: 12px;
+    background: url(../images/mentoch.png) no-repeat;
+    
+}
+/*Боковые точки в фоне*/
+#tochk {
+    width: 100%;
+    height: 0px;
+}
+.tochka_vl {
+    float: left;
+    width: 25px;
+    height: 25px;
+    margin-top: 10px;
+}
+.tochka_vp {
+    margin-top: 10px;  
+    float: right;
+    width: 25px;
+    height: 25px;
+}
+#tochk2 {
+    width: 1100px;
+    height: 30px;
+}
+#tochka_nl {
+    width: 25px;
+    height: 25px;
+}
+.tochka_nl {
+    float: left;
+    width: 25px;
+    height: 25px;
+    margin-top: -8px;
+}
+#tochka_np {
+    float: right;
+    width: 25px;
+    height: 25px;
+}
+.tochka_np {
+    float: right;
+    width: 25px;
+    height: 25px;
+    margin-top: -8px;
+}
+.zagolovok {
+    text-align: center;
+    font-size: 22px;
+    color: aliceblue;
+    padding-top: 25px;
+    list-style: none;
+    }
+.linia {
+    width: 1000px;
+    height: 25px;
+    margin-left: 50px;
+}
+#registr {
+    margin-top: 50px;
+    margin-left: 190px;
+    width: 900px;
+    height: 600px;
+}
+#zag tr td {
+    color: aliceblue;
+    width: 3500px;
+    height: 30px;
+}
+.zag2 tr td input {
+    width: 250px;
+    height: 35px;
+    font-size: 18px;
+    padding: 0 5px;
+    color: #ffecd6;
+    background: rgba(77, 46, 33, 0.8);
+    border: 1px solid rgb(255, 255, 255);  
+}
+.zag2 tr th input {
+    width: 20px;
+    height: 20px;
+    
+}
+.zag2 tr th { 
+    width: 500px;
+    text-align: left;
+}
+.gorod {
+    width: 262px;
+    height: 35px;
+    font-size: 18px;
+    color: #ffecd6;
+    background: rgba(77, 46, 33, 0.8);
+    border: 1px solid rgb(255, 255, 255);  
+}
+#sogl {
+    margin-left: 140px;
+    margin-top: 80px;
+    width: 450px;
+    height: 20px;
+}
+#sogl a {
+    margin-left: 20px;
+    color: aliceblue;
+    font-size: 18px;
+}
+.sogl input {
+    width: 15px;
+    height: 15px;
+}
+#kn_vir {
+    width: 190px;
+    height: 38px;
+    margin-left: 450px;
+    margin-bottom: 50px;
+}
+.naiti_kn {
+    font-size: 26px;
+    color: aliceblue;
+    width: 190px;
+    height: 38px;
+    background: url(../images/knka.png) no-repeat;
+}
+#feet {
+    width: 1100px;
+    height: 50px;
+    background: url(../images/nizst.png) no-repeat;
+    box-shadow:  0 0 15px rgba(0, 0, 0, 0.56);
+}
+
+#feel_text ul {
+    width: 1100px;
+    height: 51px;
+    list-style: none; 
+}
+.feel_text ul li a {
+    float: left;
+    line-height: 14px;
+    font-size: 18px;
+    margin-left: 114px;
+    margin-top: 18px;
+    color: aliceblue; 
+}
+
+.clr {
+    clear: both;
+}
+#foot {
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 25px;
+    width: 1000px;
+    height: 20px;
+    font-size: 14px;
+    color: #d0b394;
+}#foot a {
+    width: 1100px;
+    height: 20px;
+    color: #ecb275;
+}
